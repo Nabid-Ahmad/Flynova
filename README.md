@@ -17,6 +17,7 @@ That's it! Server will start automatically.
 
 ## Requirements:
 
+
 - Python 3.10+ installed on the PC
 - Internet connection (first time only)
 
